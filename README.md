@@ -1,0 +1,2 @@
+# EczaneOtomasyonu
+Java masaüstü uygulaması
